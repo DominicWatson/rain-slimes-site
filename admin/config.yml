@@ -20,15 +20,13 @@ collections:
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'blog'
-    label: 'Blog'
-    folder: '_posts/'
+  - name: 'slimes'
+    label: 'Slimes'
+    folder: '_slimes/'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Author', name: 'author', widget: 'relation', collection: 'players', value_field: '{{slug}}', search_fields: [ 'title' ], display_fields: [ 'title' ] }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Slime name', name: 'title', widget: 'string' }
+      - { label: 'Main photo', name: 'photo', widget: 'image', required: false, allow_multiple: false }
+      - { label: 'About the slime', name: 'body', widget: 'markdown' }
