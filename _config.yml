@@ -13,12 +13,12 @@ plugins:
 - jekyll-paginate
 
 # Site settings
-url: 'https://mydomain.com'
+url: ''
 baseurl: ''
-title: 'My blog'
-description: 'This is my new blog'
+title: 'Rain slimes'
+description: 'Welcome to the home of Rain Slimes Slime!'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=136"
+logo: "/assets/logo/92x92.png"
 
 # Pagination
 paginate: 5
