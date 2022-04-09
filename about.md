@@ -6,7 +6,7 @@ Berry-licous is a lovely milky slime that smells like blue berry and looks like 
 
 Lavender is an amazing glossy slime scented lavender and that's its colour.
 
-Apple Pie is a satisfying clear slime and it smells exactly like apples and its beige to represent the pastry.
+Apple Pie is a satisfying butter slime and it smells exactly like apples and its beige to represent the pastry.
 
 Space Rocket is an also awesome clear slime however it smells of raspberry and the colour is bit of dark purple.
 
